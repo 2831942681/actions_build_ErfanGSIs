@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://aab4to54oxt7uk4xnupoydffkyzbo888.node.ppio.cloud:35672/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/M1813/7.1.5.2/cn/20200113115159/4440a072/update.zip?f_ver=v1&max_age=7776000&r=KQcEREZRfWZWLgc4BhMGPW8eFV1PHnwqXypaExgAGS8gARUbcwcrJFVoOGRJQ0d3dl1BGgBFYGZTKVpnQUBEaHBCQwUEXmN8CWhBYUVCFWh2QV9BRQ8zPVVpDzwBLgMVWlYPPHhfNxA7EhYaaQ%3D%3D&ppiouid=62b2db0c22ab84000127e9e8741a5de8&ppio_auth=62b2db0c__0_bdda6a43cf4f2fd8d026dc2f0bdd41e4
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 

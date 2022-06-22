@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://aab4to54oxt7uk4xnupoydffkyzbo888.node.ppio.cloud:35672/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/M1813/7.1.5.2/cn/20200113115159/4440a072/update.zip?f_ver=v1&max_age=7776000&r=KQcEREZRfWZWLgc4BhMGPW8eFV1PHnwqXypaExgAGS8gARUbcwcrJFVoOGRJQ0d3dl1BGgBFYGZTKVpnQUBEaHBCQwUEXmN8CWhBYUVCFWh2QV9BRQ8zPVVpDzwBLgMVWlYPPHhfNxA7EhYaaQ%3D%3D&ppiouid=62b2db0c22ab84000127e9e8741a5de8&ppio_auth=62b2db0c__0_bdda6a43cf4f2fd8d026dc2f0bdd41e4
+  ROM_URL: https://aab4to54oxt7uk4xnupoydffkyzbo888.node.ppio.cloud:35672/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu18S_Pro/9.2.1.3/cn/20220424190213/fb51eff3/update.zip?f_ver=v1&max_age=7776000&r=EiQDBCl5G20MJwcsBRkdMFQ9Eh0gNhohBSNaBxsKAiIbIhJbHC9NLw9hGCQbAhpkQgMoJCgsG3tEfFtwXEtANhR%2FRURocQR2WHpEeEJKXmZVNhVBayZSJFlhADEWGRswVCoeBBUgEho5J1pzBT4QLxEcAWQ%3D&ppiouid=62b2f3d487b0660001a2bfe6741a5de8&ppio_auth=62b2f3d4__0_26cb9b4e093057169a9ceb354eec9c55
   ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
